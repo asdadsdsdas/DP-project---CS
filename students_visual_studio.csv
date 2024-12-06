@@ -1,0 +1,4 @@
+SchoolID,Name,Grade,Status,DP,Reason
+S123,Alice Smith,10,Warning,2,Late 2x
+S124,Bob Johnson,11,Good Standing,0,N/A
+S125,Charlie Davis,9,Suspension,3,Disruptive Behavior
